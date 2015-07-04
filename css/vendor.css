@@ -71,3 +71,7 @@ img {
 .love {
 	color: pink;
 }
+
+.italic {
+	font-style: italic;
+}
