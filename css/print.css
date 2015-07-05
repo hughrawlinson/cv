@@ -12,3 +12,7 @@ h1{
 .sidebar{
   display:none;
 }
+
+band :after{
+  display:none;
+}
