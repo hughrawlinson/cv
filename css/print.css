@@ -16,3 +16,30 @@ h1{
 band :after{
   display:none;
 }
+
+body {
+  font-size: 12px;
+}
+
+main section {
+  padding: 0;
+}
+
+.max-width-wrapper {
+  /* margin: 0; */
+  width: unset;
+}
+
+.hide-on-print {
+  display: none;
+}
+
+.only-on-print {
+  display: unset;
+}
+
+
+a, a:visited {
+  text-decoration: none;
+  color: inherit;
+}
